@@ -1,3 +1,5 @@
 pybuilder:
-  image: python:3
+  build:
+    image: pcompieta/try-codeship-python
+    dockerfile: Dockerfile
   cached: true
