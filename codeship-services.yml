@@ -1,5 +1,2 @@
 projectConfig:
-  build:
-    image: pcompieta/try-jenkinsfile-python
-    dockerfile: Dockerfile
-  cachet: true
+    image: python:latest
