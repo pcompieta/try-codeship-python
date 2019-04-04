@@ -1,2 +1,3 @@
-projectConfig:
-    image: python:latest
+pybuilder:
+  image: python:3
+  cached: true
